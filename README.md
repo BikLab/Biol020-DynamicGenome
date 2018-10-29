@@ -6,6 +6,8 @@ Your instructor for this until will be Dr. Holly Bik, an Assistant Professor in 
 
 ## 2018 Class Schedule
 
+Before we get started on Week 5, please complete this pre-class assessment survey (it will only take 5 minutes!): https://goo.gl/forms/8Ct1Solza2oGglAE3
+
 ### Week 5
 
 **Mon Oct 29th** - Begin DNA extractions of Nematodes (2hr protocol: ), followed by introductory lecture on nematode research in the Bik Lab. 
@@ -35,4 +37,4 @@ Your instructor for this until will be Dr. Holly Bik, an Assistant Professor in 
 
 **Mon Nov 26th** - Finish basecalling of Sanger squences if needed. Introduce BLAST and begin identifications of nematodes (using video capture images and web searches for morphology)
 
-***Wed Nov 28th** - continue bioniformatics - maybe command line or metabarcoding tutorial if we have time
+**Wed Nov 28th** - continue bioniformatics - maybe command line or metabarcoding tutorial if we have time

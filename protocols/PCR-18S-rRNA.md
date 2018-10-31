@@ -23,7 +23,7 @@ We will be amplifying the full length 18S ribosomal RNA gene (~1600bp) in three 
 * 16 ul of molecular grade water
 * 2 ul of Forward primer (10uM concentration)
 * 2 ul of Reverse primer (10uM concentration)
-* 25 ul of Accuzyme 
+* 25 ul of Accuzyme Mix containing dNTPs (Product ID: [BIO-25028](https://www.bioline.com/us/accuzyme-mix.html#specification))
 
 ### PCR Program
 
@@ -41,3 +41,14 @@ Use the following PCR program:
 
 * 72 degrees for 10:00 min 
 * hold at 4 degrees.
+
+---
+
+### Instructor Prep
+
+1. Order primers and dilute stock solution down to 10uM 
+2. Order positive control ([Zymo Microbionics Community Standard](https://www.zymoresearch.com/zymobiomics-community-standard) or C. elegans DNA) and dilute stock solution to make template DNA for positive PCR controls
+3. PCR reactions should be set up so that each table of students (3 or 4 students per table) pipets worm DNA and controls into one strip of PCR tubes (e.g. 4 worms plus 2 controls). Each table will then carryout PCR recipe calculations and make a mastermix for ONE primer set at a time. 
+4. Once finished, students should put strip tubes on the PCR machine or on a 96-well plate at the front of the classroom
+5. Repeat steps 3 and 4 with second and third primer sets.
+6. Start PCR reactions once class has finished preparing reactions for all three primer sets.

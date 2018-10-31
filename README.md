@@ -10,7 +10,7 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 ### Week 5
 
-**Mon Oct 29th** - Begin DNA extractions of Nematodes (2hr protocol: ), followed by introductory lecture on nematode research in the Bik Lab. 
+**Mon Oct 29th** - Begin DNA extractions of Nematodes ([Click here for DNA extraction protocol](../blob/master/protocols/nematode-DNA-extractions.md)), followed by introductory lecture on nematode research in the Bik Lab. 
 
 **Wed Oct 31st** - start PCR of three 18S rRNA gene fragments (three different primer sets to be used per worm)
 

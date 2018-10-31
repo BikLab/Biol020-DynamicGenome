@@ -46,10 +46,10 @@ Use the following PCR program:
 
 ### Instructor Prep
 
-1. Order primers and dilute stock solution down to 10uM 
+1. Order primers and dilute stock solution down to 10uM. Make 20ul aliquots of each diluted primer (one per table, 6 aliquots of each primer per DG class section)
 2. Order positive control ([Zymo Microbionics Community Standard](https://www.zymoresearch.com/zymobiomics-community-standard) or C. elegans DNA) and dilute stock solution to make template DNA for positive PCR controls
-3. PCR reactions should be set up so that each table of students (3 or 4 students per table) pipets worm DNA and controls into one strip of PCR tubes (e.g. 4 worms plus 2 controls all amplified with Primer set 1). Each table will then carryout PCR recipe calculations and make a mastermix for ONE primer set at a time. 
-4. Once finished, students should put strip tubes on the PCR machine or on a 96-well plate at the front of the classroom
+3. PCR reactions should be set up so that each table of students (3 or 4 students per table) pipets worm DNA and controls into one strip of PCR tubes (e.g. 4 worms plus 2 controls all amplified with Primer set 1). Each table will then carryout PCR recipe calculations and make a mastermix for ONE primer set at a time. After calculating mastermix volumes, students should add everything *except* the Accuzyme Mix. Students will then walk up to front of classroom and let the instructor know how much Accuzyme they need aliquoted (instructor will pipet into students tube, and hand them the forward and reverse primer pair at the same time). Students then go back to their table to finish setting up the PCR reactions.
+4. Once finished, students should put strip tubes on the PCR machine or on a 96-well plate at the front of the classroom.
 5. Repeat steps 3 and 4 with second and third primer sets.
 6. Start PCR reactions once class has finished preparing reactions for all three primer sets.
 7. NOTE: If using Zymo positive control, only use for PCR primer set 1 (general eukaryotic primers that will amplify yeast). 

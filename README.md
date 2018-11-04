@@ -12,11 +12,11 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 **Mon Oct 29th** - Begin DNA extractions of Nematodes ([Click here for DNA extraction protocol](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/nematode-DNA-extractions.md)), followed by introductory lecture on nematode research in the Bik Lab. 
 
-**Wed Oct 31st** - start PCR of three 18S rRNA gene fragments, using three different primer sets to be used per worm ([Click here for nematode PCR primer](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/PCR-18S-rRNA.md)) 
+**Wed Oct 31st** - start PCR of three 18S rRNA gene fragments, using three different primer sets to be used per worm ([Click here for nematode PCR protocol](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/PCR-18S-rRNA.md)) 
 
 ### Week 6
 
-**Mon Nov 5** - Run gels and Redo PCRs as needed for worms and primer sets that didn't work.
+**Mon Nov 5** - Run Electrophoresis Gels for PCR products generated last Wednesday (check for ~800bp gel bands and postive/negative controls worked as expected). Redo PCRs as needed for worms and primer sets that didn't work ([Redo this same PCR protocol from last week](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/PCR-18S-rRNA.md)). Short discussion on Botanic Gardens sampling - how to collect samples and location metadata.
 
 **Wed Nov 7** - Field Trip to Botanic gardens (soil sample collections - keep samples in fridge until next week)
 
@@ -24,7 +24,7 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 **Mon Nov 12** - No Class (Veteran's Day)
 
-**Wed Nov 14** - Soil/Sediment extraction demo, portable SEM demo and begin nematode microscopy (taxonomic identifications and drawings)
+**Wed Nov 14** - Soil/Sediment extraction demo, portable SEM demo and begin nematode microscopy (taxonomic identifications and drawings). Redo any futher PCRs as needed to obtain good gel bands for all three primer sets for one nematode worm.
 
 
 ### Week 8

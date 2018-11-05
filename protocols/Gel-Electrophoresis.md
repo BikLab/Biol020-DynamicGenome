@@ -1,6 +1,19 @@
-### Electrophoresis Gels
+### Checking PCR products on Electrophoresis Gels
 
 After completing PCR reactions, the PCR products will need to be run on electrophoresis gels in order to check for successful amplification of the target 18S rRNA gene fragment. Your positive and negative controls will also be run on the gel to troubleshoot any problems. Negative controls should have no gel bands (the presence of bands indicates condaminated reactions). Positive controls should have very strong gel bands (if you see no bands here it means your PCR reaction did not work properly).
+
+#### Making agarose gels
+
+Before we can run samples, we need to prepare agarose gels. We will be making these from scratch:
+
+1. Measure out 0.7 grams of agarose powder on the mass balance
+2. Measure out 50ml of 1x TAE buffer into a glass flask
+3. Add the powdered agarose to the TAE
+4. Microwave the glass beaker until all the agarose dissolves. Make sure the liquid does not boil over - watch it carefully! Taking the glass flask out and swirling it occasionally will help the agarose to dissolve
+5. Add 2ul Ethidium Bromide (EtBr) to the hot liquid agarose after all the powder has dissolved. Swirl flask to mix.
+6. Pour out the agarose containing EtBr onto the gel tray. Set aside to cool for a minimum of 30 minutes
+7. While the gel is cooling, prepare your PCR reactions to load onto the gel.
+
 
 #### Preparing samples for gel
 

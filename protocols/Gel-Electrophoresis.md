@@ -20,6 +20,6 @@ Now it is time to load the gels.
 3. Put on the cover and start running the gel. It should be run at **170 volts for 30 minutes**
 4. After 30 minutes is up, take the gel out of the box and visualize the bands on the UV box. Take a digitial photo of your gel, and check your band size against the 1kb DNA ladder. Which PCR reactions showed successful amplification?
 
-![Image of 1kb DNA ladder](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/1kb-DNA-ladder-for-gel.png | width=200)
+![Image of 1kb DNA ladder](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/1kb-DNA-ladder-for-gel.png)
 
 

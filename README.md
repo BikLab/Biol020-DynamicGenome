@@ -16,7 +16,7 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 ### Week 6
 
-**Mon Nov 5** - Run Electrophoresis Gels for PCR products generated last Wednesday (check for ~800bp gel bands and postive/negative controls worked as expected). Redo PCRs as needed for worms and primer sets that didn't work ([Redo this same PCR protocol from last week](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/PCR-18S-rRNA.md)). Short discussion on Botanic Gardens sampling - how to collect samples and location metadata.
+**Mon Nov 5** - Run Electrophoresis Gels for PCR products generated last Wednesday (check for ~800bp gel bands and postive/negative controls worked as expected; [Follow Electrophoresis Gel protocol here](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/Gel-Electrophoresis.md)). Redo PCRs as needed for worms and primer sets that didn't work ([Redo this same PCR protocol from last week](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/PCR-18S-rRNA.md)). Short discussion on Botanic Gardens sampling - how to collect samples and location metadata.
 
 **Wed Nov 7** - Field Trip to Botanic gardens (soil sample collections - keep samples in fridge until next week)
 

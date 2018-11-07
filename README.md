@@ -18,7 +18,7 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 **Mon Nov 5** - Run Electrophoresis Gels for PCR products generated last Wednesday (check for ~800bp gel bands and postive/negative controls worked as expected; [Follow Electrophoresis Gel protocol here](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/Gel-Electrophoresis.md)). Redo PCRs as needed for worms and primer sets that didn't work ([Redo this same PCR protocol from last week](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/PCR-18S-rRNA.md)). Short discussion on Botanic Gardens sampling - how to collect samples and location metadata.
 
-**Wed Nov 7** - Field Trip to Botanic gardens to collect soil samples for nematoe extractions. [Click here for sampling guielines and procedures](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/botanic-gardens-sampling.md).
+**Wed Nov 7** - Field Trip to UCR Botanic Gardens to collect soil samples for nematoe extractions. [Click here for sampling guielines and procedures](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/botanic-gardens-sampling.md).
 
 ### Week 7
 

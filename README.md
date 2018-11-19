@@ -29,7 +29,7 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 ### Week 8
 
-**Mon Nov 19th** - Continue nematode microscopy - picking and identifications. 
+**Mon Nov 19th** - Continue nematode microscopy - picking and identifications. Use this [Warwick & Platt pictorial key](https://www.dropbox.com/s/gu5pt0xn3nlpsa9/NematodePictorialKey_WarwickPlatt.pdf?dl=0) to morphologically identify your namatodes. By the end of class you need to 1) pick and mount a live soil nematode on a slide with a coverslip, and 2) use a permanent slide to make a taxonmy drawing of a nematode, identifying all the relevant natomical parts. 
 
 **Wed Nov 21** Begin basecalling of Sanger sequences (quality checking and )
 

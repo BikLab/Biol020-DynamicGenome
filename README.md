@@ -31,10 +31,10 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 **Mon Nov 19th** - Continue nematode microscopy - picking and identifications. Use this [Warwick & Platt pictorial key](https://www.dropbox.com/s/gu5pt0xn3nlpsa9/NematodePictorialKey_WarwickPlatt.pdf?dl=0) to morphologically identify your namatodes. By the end of class you need to 1) pick and mount a live soil nematode on a slide with a coverslip, and 2) use a permanent slide to make a taxonmy drawing of a nematode, identifying all the relevant natomical parts. 
 
-**Wed Nov 21** Begin basecalling of Sanger sequences (quality checking and )
+**Wed Nov 21** Update lab noteboks (annotate gel images, fill in protocol steps), work on paper, and make sure all successful PCR products have been handed over for sequencing before Thanksgiving break.
 
 ### Week 9
 
-**Mon Nov 26th** - Finish basecalling of Sanger squences if needed. Introduce BLAST and begin identifications of nematodes (using video capture images and web searches for morphology)
+**Mon Nov 26th** - Begin basecalling of Sanger sequences (quality checking and assembling sequences). [Click here for DNA basecalling instructions for today's class](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/basecalling-Sanger-seqs.md) Introduce BLAST and begin identifications of nematodes (using video capture images and web searches for morphology). 
 
-**Wed Nov 28th** - continue bioniformatics - maybe command line or metabarcoding tutorial if we have time
+**Wed Nov 28th** - Finish basecalling of Sanger sequences. Link DNA seqeunces with nematode morphology. 

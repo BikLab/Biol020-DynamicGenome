@@ -35,6 +35,6 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 ### Week 9
 
-**Mon Nov 26th** - Begin basecalling of Sanger sequences (quality checking and assembling sequences). [Click here for DNA basecalling instructions for today's class](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/basecalling-Sanger-seqs.md) Introduce BLAST and begin identifications of nematodes (using video capture images and web searches for morphology). 
+**Mon Nov 26th** - Begin basecalling of Sanger sequences (quality checking and assembling sequences). [Click here for DNA basecalling instructions for today's class](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/basecalling-Sanger-seqs.md) Introduce BLAST and begin identifications of nematodes (using video capture images and web searches for morphology). [Once finished with class nematodes, complete this extended exercise on morphology vs. DNA seqeunces](https://docs.google.com/document/d/1nSDTVnWlwamGLwq3UjKKnhTVu5xfyFUVuA2w1QsPGIc/edit) 
 
 **Wed Nov 28th** - Finish basecalling of Sanger sequences. Link DNA seqeunces with nematode morphology. 

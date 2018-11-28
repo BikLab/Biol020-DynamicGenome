@@ -14,7 +14,7 @@ Next, we'll jump right into working with your DNA seqeunces:
 
 5. Trim and basecall your sequences as we discuss in class. "Bad" bases should be removed from both ends, the primer sequences should also be removed, and any bases that disagree between fragments (bases marked with a black dot) should be manually inspected and corrected.
 
-6. Once you are finished, export the clean DNA sequences into a FASTA text file from sequencher.
+6. Once you are finished, export the clean DNA sequences into a FASTA text file from sequencher. [Click here if you need a FASTA sequence because Sequencher wasn't working](https://www.dropbox.com/sh/wil7bjkws7lfhke/AACWVzKK2aJ_QxgdABNxPw6Ca?dl=0)
 
 7. Open this text file and copy-paste the DNA sequence into [the NCBI online BLAST tool](https://blast.ncbi.nlm.nih.gov/Blast.cgi
 )

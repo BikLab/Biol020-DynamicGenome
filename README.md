@@ -41,5 +41,5 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 Dropbox "practice" nemtode signups:
 
-* [Section 25](Click here for the folder of images](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018/Section25-nem-assignments.jpeg)
-* [Section 26](Click here for the folder of images](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018/Section26-nem-assignments.jpeg)
+* [Section 25](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018/Section25-nem-assignments.jpeg)
+* [Section 26](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018/Section26-nem-assignments.jpeg)

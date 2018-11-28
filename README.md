@@ -38,3 +38,8 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 **Mon Nov 26th** - Begin basecalling of Sanger sequences (quality checking and assembling sequences). [Click here for DNA basecalling instructions for today's class](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/protocols/basecalling-Sanger-seqs.md) Introduce BLAST and begin identifications of nematodes (using video capture images and web searches for morphology). [Once finished with class nematodes, complete this extended exercise on morphology vs. DNA seqeunces](https://docs.google.com/document/d/1nSDTVnWlwamGLwq3UjKKnhTVu5xfyFUVuA2w1QsPGIc/edit) 
 
 **Wed Nov 28th** - Finish basecalling of Sanger sequences. Link DNA seqeunces with nematode morphology. Find the images of the nematode you used for DNA sequencing and PCR in classs ([Click here for the folder of images](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018)) - describe the morphological features you see and use the  Warwick & Platt taxonomic keys (link listed above) to try and identify your nematode down to genus level.
+
+Dropbox "practice" nemtode signups:
+
+* [Section 25](Click here for the folder of images](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018/Section25-nem-assignments.jpeg)
+* [Section 26](Click here for the folder of images](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018/Section26-nem-assignments.jpeg)

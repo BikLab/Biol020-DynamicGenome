@@ -42,7 +42,7 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 ### Week 10
 
-**Mon Dec 3rd** Fill out iEval asssessments as well as this [post-course Google Doc survey:](https://goo.gl/forms/jpDlo1gpSLBBApt93)
+**Mon Dec 3rd** Fill out iEval asssessments (click the link on Blackboard) as well as this [post-course Google Doc survey:](https://goo.gl/forms/jpDlo1gpSLBBApt93)
 
 #### Dropbox "practice" nemtode signups:
 

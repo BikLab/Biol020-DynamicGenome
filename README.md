@@ -39,6 +39,11 @@ Before we get started on Week 5, please complete this pre-class assessment surve
 
 **Wed Nov 28th** - Finish basecalling of Sanger sequences. Link DNA seqeunces with nematode morphology. Find the images of the nematode you used for DNA sequencing and PCR in classs ([Click here for the folder of images](https://github.com/BikLab/Biol020-DynamicGenome/blob/master/nematode-images-F2018)) - describe the morphological features you see and use the  Warwick & Platt taxonomic keys (link listed above) to try and identify your nematode down to genus level.
 
+
+### Week 10
+
+**Mon Dec 3rd** Fill out iEval asssessments as well as this [post-course Google Doc survey:](https://goo.gl/forms/jpDlo1gpSLBBApt93)
+
 #### Dropbox "practice" nemtode signups:
 
 **Section 25**
